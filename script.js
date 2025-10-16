@@ -78,3 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 100);
     });
 });
+
+
+
+//to be considered 
